@@ -6,10 +6,11 @@
 
 ## General Info
 
-This browser based web application to ...
+This browser based web application to ... Vacation
 
 * I am Amir Eskandari and I am very excited about this project because...
- 
+* I am Felix Tetteh and I am very excited about this project because...
+
 ## Technologies
 
 Technologies used for this project:
@@ -18,7 +19,7 @@ Technologies used for this project:
 * JavaScript
 * Bootstrap
 * ...
- 
+
 ## Content
 
 Content of the project folder:
