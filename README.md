@@ -5,17 +5,22 @@
 * [Contents](#content)
 
 ## General Info
+
 This browser based web application to ...
-* I am Amir Eskandari and I am very excited about this project because...
-	
+
+* I am Felix Tetteh and I am very excited about this project because...
+ 
 ## Technologies
+
 Technologies used for this project:
+
 * HTML, CSS
 * JavaScript
-* Bootstrap 
+* Bootstrap
 * ...
-	
+ 
 ## Content
+
 Content of the project folder:
 
 ```
@@ -40,6 +45,6 @@ Firebase hosting files:
 ```
 
 Tips for file naming files and folders:
+
 * use lowercase with no spaces
 * use dashes (not underscore) for word separation
-
