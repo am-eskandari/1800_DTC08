@@ -6,6 +6,7 @@
 
 ## General Info
 This browser based web application to ...
+This is Daniel and I'm excited about this project because I like working in teams
 	
 ## Technologies
 Technologies used for this project:
