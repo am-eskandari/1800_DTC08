@@ -8,7 +8,7 @@
 
 This browser based web application to ...
 <<<<<<< HEAD
-This is Daniel and I'm excited about this project because I like working in teams
+This is Daniel and I'm excited about this project because I like working in teams.
 I am Amir Eskandari and I am very excited about this project because...
 	
 =======
