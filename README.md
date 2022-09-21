@@ -5,11 +5,13 @@
 * [Contents](#content)
 
 ## General Info
+
 This browser based web application to ...
 
 * I am Daniel and I am very excited about this project because I like working in teams.
 * I am Amir Eskandari and I am very excited about this project because I love to solve a problem with a collaborative team.
-* I am Felix Tetteh and I am very excited about this project because I like 
+* I am Felix Tetteh and I am very excited about this project because I like working with good people.
+* I am Madeline Decarrie and I am very excited about this project because I love learning new things.
 
 ## Technologies
 
