@@ -7,7 +7,7 @@
 ## General Info
 This browser based web application to ...
 
-*I am Daniel and I am very excited about this project because I like working in teams.
+* I am Daniel and I am very excited about this project because I like working in teams.
 * I am Amir Eskandari and I am very excited about this project because I love to solve a problem with a colaborative team.
 * I am Felix Tetteh and I am very excited about this project because...
 
