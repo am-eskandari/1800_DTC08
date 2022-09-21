@@ -8,9 +8,14 @@
 
 This browser based web application to ...
 
+<<<<<<< HEAD
 * I am Amir Eskandari and I am very excited about this project because...
 * I am Madeline Decarrie and I am very excited about this project because...
 
+=======
+* I am Felix Tetteh and I am very excited about this project because...
+ 
+>>>>>>> 4ab4f96bac6cad36a76c9094c99cbc2e7afd2e58
 ## Technologies
 
 Technologies used for this project:
