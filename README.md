@@ -6,6 +6,7 @@
 
 ## General Info
 This browser based web application to ...
+I am Amir Eskandari and I am very excited about this project because...
 	
 ## Technologies
 Technologies used for this project:
