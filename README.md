@@ -5,19 +5,10 @@
 * [Contents](#content)
 
 ## General Info
-
-<<<<<<< HEAD
 This browser based web application to ...
-<<<<<<< HEAD
-This is Daniel and I'm excited about this project because I like working in teams.
-I am Amir Eskandari and I am very excited about this project because...
-	
-=======
-=======
-This browser based web application to ... Vacation
->>>>>>> ee66c5168ed6abf7c22aabf62896679376360e06
 
-* I am Amir Eskandari and I am very excited about this project because...
+*I am Daniel and I am very excited about this project because I like working in teams.
+* I am Amir Eskandari and I am very excited about this project because I love to solve a problem with a colaborative team.
 * I am Felix Tetteh and I am very excited about this project because...
 <<<<<<< HEAD
  
