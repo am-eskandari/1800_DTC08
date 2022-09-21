@@ -7,6 +7,7 @@
 ## General Info
 This browser based web application to ...
 This is Daniel and I'm excited about this project because I like working in teams
+I am Amir Eskandari and I am very excited about this project because...
 	
 ## Technologies
 Technologies used for this project:
